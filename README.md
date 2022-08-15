@@ -1,75 +1,108 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+  
 
-> Description the project.
+# To-Do-List-App
 
+  
+
+> This is a simple page that lists the tasks that you need to do and allows you to mark them as complete when you're finished.
+
+  
+
+## Live Demo
+
+> Live demo coming soon ⏳
+
+  
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+  
 
-## Live Demo (if available)
+- HTML
 
-[Live Demo Link](https://livedemo.com)
+- CSS
 
+- Javascript
 
-## Getting Started
+  
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+### Technologies used
 
+- Git, linters, Github and Webpack.
 
-To get a local copy up and running follow these simple example steps.
+  
+  
 
-### Prerequisites
+## Setup
 
-### Setup
+To get a local copy up and running you'll need to have [NodeJS](https://nodejs.org/en/download/) installed on your local machine.
+
+  
 
 ### Install
 
+After installing NodeJS please follow the next steps...
+
+  
+
 ### Usage
 
-### Run tests
+```bash
 
-### Deployment
+npm i
 
+```
 
+-- for installing dev dependecies.
 
-## Authors
+```bash
 
-👤 **Author1**
+npm run build
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+```
+-- to run the project.
 
-👤 **Author2**
+  
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+## Author
+
+  
+
+👤 **Abel Gebeyehu**
+
+  
+
+- GitHub: [@AbelG101](https://github.com/AbelG101)
+
+- LinkedIn: [Abel Gebeyehu](https://www.linkedin.com/in/abel-gebeyehu-779743183/)
+
+  
+  
 
 ## 🤝 Contributing
 
+  
+
 Contributions, issues, and feature requests are welcome!
+
+  
 
 Feel free to check the [issues page](../../issues/).
 
+  
+
 ## Show your support
+
+  
 
 Give a ⭐️ if you like this project!
 
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
+  
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+  
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./MIT.md) licensed.
